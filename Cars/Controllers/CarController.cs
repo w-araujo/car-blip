@@ -1,5 +1,4 @@
-﻿using Cars.Interfaces;
-using Cars.Models;
+﻿using Cars.Models;
 using Microsoft.AspNetCore.Mvc;
 using Cars.Database;
 
